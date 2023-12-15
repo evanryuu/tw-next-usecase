@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <main className='bg-white dark:bg-white'>
+    <main className='bg-theme'>
       <button>Hello</button>
     </main>
   )
