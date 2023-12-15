@@ -10,7 +10,8 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        theme: 'var(--theme-color)'
+        theme: 'var(--theme-color)',
+        'theme-invert': 'var(--theme-color-invert)'
       }
     }
   },

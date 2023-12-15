@@ -4,10 +4,12 @@
 
 :root {
   --theme-color: white;
+  --theme-color-invert: black;
 }
 
 .dark {
   --theme-color: black;
+  --theme-color-invert: white;
 }
 
 /* @media (prefers-color-scheme: dark) {
