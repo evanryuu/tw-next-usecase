@@ -6,8 +6,12 @@
   --theme-color: white;
 }
 
-@media (prefers-color-scheme: dark) {
+.dark {
+  --theme-color: black;
+}
+
+/* @media (prefers-color-scheme: dark) {
   :root {
     --theme-color: black;
   }
-}
+} */
